@@ -1,22 +1,35 @@
-🏏 Exploratory Data Analysis - Sports 🏆
-Problem Statement
-Perform Exploratory Data Analysis on the 'Indian Premier League' dataset to:
+# 🏏 Exploratory Data Analysis - Indian Premier League
 
-Identify the most successful teams and players
-Discover key factors contributing to team wins and losses
-Recommend optimal teams and players for product endorsements
+## Overview
+This project performs exploratory data analysis on the Indian Premier League dataset to uncover insights about team performance, player statistics, and game-winning factors.
 
-Project Overview
-This analysis dives into the exciting world of IPL cricket data to uncover the patterns and insights that drive success in India's most popular sporting league. By examining historical performance, player statistics, and match outcomes, we'll transform raw cricket data into valuable business intelligence for marketing and sponsorship decisions.
-What You'll Find
+## Problem Statement
+As sports analysts, we aim to:
+- Identify the most successful teams and players in IPL history
+- Determine key factors that contribute to wins or losses
+- Recommend teams/players that companies should consider for product endorsements
 
-Comprehensive analysis of team performance across seasons
-Identification of star players based on multiple performance metrics
-Deep dive into match-winning factors (home advantage, toss decisions, etc.)
-Strategic recommendations for brands looking for the perfect ambassador
+## Methodology
+- Data cleaning and preprocessing
+- Statistical analysis of performance metrics
+- Visualization of trends and patterns
+- Correlation analysis between variables
 
-Why This Matters
-Cricket isn't just a sport in India—it's a religion! The IPL represents one of the most valuable marketing platforms in the world. By understanding which teams dominate, which players shine brightest, and what factors truly impact success, brands can make data-driven decisions about their sponsorship investments and maximize their ROI in this cricket-crazy market.
-Project By
-Ayush Tomar
-Where cricket data meets marketing strategy! ✨
+## Tools Used
+- Python (Pandas, NumPy)
+- Data Visualization (Matplotlib, Seaborn)
+- Statistical Analysis
+
+## Key Findings
+(To be completed after analysis)
+
+## Recommendations
+(To be completed after analysis)
+
+## How to Use
+1. Clone this repository
+2. Install required dependencies: `pip install -r requirements.txt`
+3. Run the Jupyter notebook
+
+## Author
+**Ayush Tomar**
