@@ -20,12 +20,6 @@ As sports analysts, we aim to:
 - Data Visualization (Matplotlib, Seaborn)
 - Statistical Analysis
 
-## Key Findings
-(To be completed after analysis)
-
-## Recommendations
-(To be completed after analysis)
-
 ## How to Use
 1. Clone this repository
 2. Install required dependencies: `pip install -r requirements.txt`
